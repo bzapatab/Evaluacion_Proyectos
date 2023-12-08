@@ -1,4 +1,4 @@
-Fecha;Qx;M;Px;Py;P1;P2;CPI;chicken_aggregate_production_pounds;Poblacion;ExportacionesXY;TIME
+Fecha;Qx;M;Px;Py;P1;P2;CPI;aggregate_production;Poblacion;ExportacionesXY;TIME
 1960;19.2;9210;52.4;33.5;46;5.153.361;29.6;4333602;180.671;50;51
 1961;20.6;9361;47.4;33;45.1;5.186.824;29.9;4944130;183.691;49;52
 1962;20.6;9666;50;34.2;44.8;5.209.133;30.2;4997189;186.538;46;53
